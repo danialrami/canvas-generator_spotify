@@ -25,7 +25,7 @@ python3 canvas-generator.py
 - FFmpeg
 - PIL (Python Imaging Library)
 - NumPy
-- glitch_this
+- glitch-this
 
 ## Installation
 
