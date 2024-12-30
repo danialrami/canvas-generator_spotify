@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 Run the script and follow the prompts:
 ```
-python canvas-generator.py
+python3 canvas-generator.py
 ```
 
 You'll need to provide:
