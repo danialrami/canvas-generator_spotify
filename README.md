@@ -60,21 +60,21 @@ The script generates three files in a new directory named after your input file:
 
 #### Original - [Madonna and Child](https://www.nga.gov/collection/art-object-page.41675.html)
 
-![[madonna_child.jpg]]
+![madonna_child.jpg](./madonna_child.jpg)
 
 #### Spotify Canvas
 
-![[madonna_child_canvas.gif]]
+![madonna_child_canvas.gif](./madonna_child_canvas/madonna_child_canvas.gif)
 
 ### `canvas-generator_no-artifacts.py` - Clean version without random artifacts
 
 #### Original - [The Seine](https://www.nga.gov/collection/art-object-page.52624.html)
 
-![[the_seine.jpg]]
+![the_seine.jpg](./the_seine.jpg)
 
 #### Spotify Canvas
 
-![[the_seine_canvas.gif]]
+![the_seine_canvas.gif](./the_seine_canvas/the_seine_canvas.gif)
 
 ## Customization
 
