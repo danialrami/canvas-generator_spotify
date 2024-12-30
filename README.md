@@ -5,7 +5,7 @@ A Python tool that transforms static album artwork into a dynamic Spotify Canvas
 ## Quick Start
 
 ```
-git clone [repository-url]
+git clone https://github.com/danialrami/canvas-generator_spotify.git
 pip install -r requirements.txt
 python3 canvas-generator.py
 ```
